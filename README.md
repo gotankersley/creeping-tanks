@@ -1,4 +1,4 @@
-# creeping-tanks
+# Creeping Tanks
 Creeper abstract strategy game.  Created with Unity WebGL exporter.
 
 ## Windows version
